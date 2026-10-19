@@ -1,0 +1,4 @@
+COMP9001|python|120|100|2|True
+122|122|122|12.0|4|False
+123|123|40|0.0|3|False
+COMP9001|python|120|20.0|2|False
